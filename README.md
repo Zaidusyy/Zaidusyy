@@ -2,6 +2,13 @@
 🔭 I’m currently working on enhancing my skills in Node.js and Google Cloud.<br>👯 I’m looking to collaborate on Flutter app development projects.<br>🤝 I’m looking for help with advanced Node.js concepts and Google Cloud services.<br>🌱 I’m currently learning about backend development with Node.js and cloud computing with Google Cloud.<br>💬 Ask me about Flutter, Java, Dart, and Firebase.<br>⚡ Fun fact: I can build cross-platform apps with Flutter and am diving into cloud solutions to make them even better!
 
 
+<p align="right">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Zaidusyy&icon=5&color=11" alt="Visit Count">
+  </a>
+</p>
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zaidu.syy) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdzaid.sayyed.752) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codebyzaid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaid-sayyed) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zaidsayyed07869) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25448348/zaid-sayyed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Zaidusyy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ZaidCodingHub) 
 
@@ -25,7 +32,7 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Zaidusyy&icon=5&color=11)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zaidsayyedj) 
