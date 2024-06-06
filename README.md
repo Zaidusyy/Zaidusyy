@@ -4,10 +4,10 @@
 [![](https://visitcount.itsvg.in/api?id=Zaidusyy&icon=5&color=11)](https://visitcount.itsvg.in)
 
 
-<div>
-  <h1 align="center">
+</div>
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=80&duration=4000&lines=Problem+detected+?+I’m+your+solution;" />
-  </h1>
+</h1>
 </div>
 
 
