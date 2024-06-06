@@ -6,7 +6,7 @@
 
 <div>
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=80&duration=4000&lines=Problem+detected+?+I’m+your+solution;" style="color: purple;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=80&duration=4000&lines=Problem+detected+?+I’m+your+solution;" />
   </h1>
 </div>
 
