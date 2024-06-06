@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on enhancing my skills in Node.js and Google Cloud.<br>👯 I’m looking to collaborate on Flutter app development projects.<br>🤝 I’m looking for help with advanced Node.js concepts and Google Cloud services.<br>🌱 I’m currently learning about backend development with Node.js and cloud computing with Google Cloud.<br>💬 Ask me about Flutter, Java, Dart, and Firebase.<br>⚡ Fun fact: I can build cross-platform apps with Flutter and am diving into cloud solutions to make them even better!
 
-
+<lr>
 <p align="right">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Zaidusyy&icon=5&color=11" alt="Visit Count">
