@@ -1,4 +1,4 @@
-<div style="text-align: right;">
+<div style="float: right;"">
   <img src="https://visitcount.itsvg.in/api?id=Zaidusyy&icon=5&color=11" alt="Visit Counter"/>
 </div>
 
