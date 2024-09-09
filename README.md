@@ -1,7 +1,7 @@
 
 <div align="right">
 
-[![](https://visitcount.itsvg.in/api?id=Zaidusyy&icon=5&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Zaidusyy&icon=5&color=11)]
 
 
 </div>
