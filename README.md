@@ -1,10 +1,7 @@
-
-<div align="right">
-
-[](https://visitcount.itsvg.in/api?id=Zaidusyy&icon=5&color=11)
-
-
+<div style="text-align: right;">
+  <img src="https://visitcount.itsvg.in/api?id=Zaidusyy&icon=5&color=11" alt="Visit Counter"/>
 </div>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=80&duration=4000&lines=Problem+detected+?+I’m+your+solution;" />
 </h1>
